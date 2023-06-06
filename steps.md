@@ -1,22 +1,18 @@
-# Gioco dei DADI.
+# List della spesa.
 
-Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
-Stabilire il vincitore, in base a chi fa il punteggio più alto.
-Stampare (in console)
+Data una lista della spesa, stampare sulla pagina (anche brutalmente, basta che si vedano) gli elementi della lista individualmente con un ciclo while.
 <br>
 <br>
 
 - **1**
-  - Genero tramite la funzion RANDOM un numero da 0 a 6 da assegnare all'utente.
+  - Genero un arrey contenete la lista.
 - **2**
-  - Genero tramite la funzion RANDOM un numero da 0 a 6 da assegnare al computer.
+  - mi apro il tag <ul>
 - **3**
-  - Eseguo un ciclo "IF" per capire chi tra l'utente o il pc ha ottenuto il punteggio più alto.
-  **SE HA VINTO L'utente**
-  - Gli do in console il messaggio "bravo hai vinto"
- **SE HA VINTO il computer**
-  - Gli do in console il messaggio "Peccato non hai vinto"
-**FINE**  
+  - creo un ciclo While, mi creo il template literals, chiuso il tag <ul>
+- **4**
+  - Inserisco in pagina
+**FINE** 
 
 
 
